@@ -1,0 +1,10 @@
+*.gif binary
+
+go.sum linguist-generated  
+src/*.ts linguist-detectable
+*.png binary
+public/index.html linguist-vendored 
+
+*.svg text
+src/**/*.tsx linguist-detectable
+*.woff binary
